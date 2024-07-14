@@ -5,9 +5,6 @@
 - [Sobre](#sobre)
 - [Recursos](#recursos)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Sobre
 
