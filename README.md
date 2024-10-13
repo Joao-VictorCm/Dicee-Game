@@ -12,10 +12,10 @@ Dicce-Game é um repositório desenvolvido para aplicar e praticar habilidades e
 
 ## Recursos
 
--HTMl
--CSS
--JavaScript
--Manipulação DOM
+- HTMl
+- CSS
+- JavaScript
+- Manipulação DOM
 
 ## Instalação
 
